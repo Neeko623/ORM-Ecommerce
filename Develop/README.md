@@ -7,7 +7,19 @@ A application working Express.js API and configure it to use Sequelize to intera
 How to install :
 - (ORM) is deployed by using node server.js
 - If choosing to use from terminal, open terminal and run
+- npm install mysql2
+- npm install sequelize
+- npm install dotenv
 - node server.js , npm run seed
+
+## Create the schema, seed the database and start the application’s server.
+ ![Demo](gifs/CREATE DATA.gif)
+
+## GET routes for Categories, Products, and tags, and single category, a single product, and a single tag
+ ![Demo](link) 
+
+## POST, PUT and DELETE routes for categories, products, and tag
+ ![Demo](link) 
 
 # Object-Relational Mapping (ORM) Information
 - Contains four models : Category, Product, Tag, ProductTag
