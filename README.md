@@ -31,7 +31,7 @@ How to install :
 - Tag belongs to many Product models.
 
 ## Usage
-[Watch the video]()
+[Watch the video](https://drive.google.com/file/d/1kAS7ryNv5yYW6QprEzhV02GeO6wvTFiC/view?usp=sharing)
 
 ## Questions
 Contact email: NEEKO_TVXQ@HOTMAIL.COM
